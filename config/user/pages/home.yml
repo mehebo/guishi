@@ -8,18 +8,18 @@ categories:
   - name: 鬼市官网
     icon: fas fa-presentation
     sites:
-      - name: 下单地址一
+      - name: 自助商城
         url: https://77777.name/
         icon: fas fa-file-powerpoint
-        description: 免费PPT模板
-      - name: 下单地址二
-        url: https://www.51pptmoban.com/
+        description: 77777.name
+      - name: 自助商城
+        url: https://88888.name/
         icon: fas fa-file-powerpoint
-        description: 幻灯片模板及素材
-      - name: 下单地址三
-        url: https://www.1ppt.com/
+        description: 88888.name
+      - name: 自助商城
+        url: https://99999.name/
         icon: fas fa-file-powerpoint
-        description: PPT模板资源
+        description: 99999.name
 
   - name: AI模型
     icon: fas fa-robot
