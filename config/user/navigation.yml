@@ -8,6 +8,3 @@
 - name: 文章
   icon: fas fa-book
   id: articles
-- name: 书签
-  icon: fas fa-bookmark
-  id: bookmarks 
