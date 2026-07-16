@@ -1,10 +1,4 @@
-- name: 首页
+- name: 分类
   icon: fas fa-home
   id: home
   active: true
-- name: 项目
-  icon: fas fa-project-diagram
-  id: projects
-- name: 文章
-  icon: fas fa-book
-  id: articles
