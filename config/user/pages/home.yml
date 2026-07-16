@@ -77,26 +77,6 @@ categories:
         icon: fab fa-google
         description: 谷歌AI平台
 
-  - name: 湖北大学
-    icon: fas fa-university
-    sites:
-      - name: 中国知网
-        url: https://webvpn.hubu.edu.cn/webvpn/LjIwNC4xNzAuMjE0LjIwOS4xNjQ=/LjIxOS4xNzMuMjE3LjE0My4xNDguMTYyLjE2NC4xNjIuOTYuMTY0LjIwMS4yMTU=/
-        icon: fas fa-book
-        description: 学术资源数据库
-      - name: 湖北大学邮箱
-        url: https://mail.stu.hubu.edu.cn/
-        icon: fas fa-envelope
-        description: 学生邮箱系统
-      - name: 资源统一管理平台
-        url: https://webvpn.hubu.edu.cn/frontend_static/frontend/login/index.html#/
-        icon: fas fa-cog
-        description: 学校资源管理
-      - name: 智慧琴园
-        url: https://one.hubu.edu.cn/#/index51
-        icon: fas fa-home
-        description: 学校综合服务平台
-
   - name: 工具集合
     icon: fas fa-tools
     sites:
