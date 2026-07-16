@@ -5,18 +5,18 @@ subtitle: 专属导航站点
 template: home
 
 categories:
-  - name: PPT工具
+  - name: 鬼市官网
     icon: fas fa-presentation
     sites:
-      - name: PPTer吧
-        url: https://ppter8.com/
+      - name: 下单地址一
+        url: https://77777.name/
         icon: fas fa-file-powerpoint
         description: 免费PPT模板
-      - name: 51PPT模板
+      - name: 下单地址二
         url: https://www.51pptmoban.com/
         icon: fas fa-file-powerpoint
         description: 幻灯片模板及素材
-      - name: 1PPT模板
+      - name: 下单地址三
         url: https://www.1ppt.com/
         icon: fas fa-file-powerpoint
         description: PPT模板资源
