@@ -8,15 +8,15 @@ categories:
   - name: 鬼市官网
     icon: fas fa-presentation
     sites:
-      - name: 自助商城
+      - name: 自助商城一
         url: https://77777.name/
         icon: fas fa-file-powerpoint
         description: 77777.name
-      - name: 自助商城
+      - name: 自助商城二
         url: https://88888.name/
         icon: fas fa-file-powerpoint
         description: 88888.name
-      - name: 自助商城
+      - name: 自助商城三
         url: https://99999.name/
         icon: fas fa-file-powerpoint
         description: 99999.name
